@@ -23,6 +23,6 @@ Você pode me encontrar nas seguintes redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/geraldo-antonio/)
 - [GitHub](https://github.com/Geraldo-Antonio)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Geraldo-Antonio&show_icons=true&theme=dark)
-![Estatísticas de Repositórios Privados](https://github-readme-stats.vercel.app/api?username=Geraldo-Antonio&count_private=true&show_icons=true&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo-Antonio&layout=compact&theme=dark)
+
 
