@@ -1,37 +1,26 @@
+# Olá, meu nome é Geraldo Antônio 👋
 
+## Sobre Mim
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: black;
-            color: green;
-            font-family: monospace;
-            font-size: 1.5rem;
-            white-space: nowrap;
-            overflow: hidden;
-        }
+Durante meu Ensino Médio, fui apaixonado por Robótica e participei ativamente de competições como programador. Conquistei um título Regional e dois títulos Estaduais na Olimpíada Brasileira de Robótica, além de diversos outros prêmios em competições regionais.
 
-        .matrix-text {
-            animation: matrix 5s linear infinite;
-        }
+Essa experiência no mundo da robótica despertou meu interesse e curiosidade pela área de TI. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no IFPE (Instituto Federal de Pernambuco). Possuo um conhecimento intermediário em Python e habilidades básicas em Java, C, SQL, HTML, CSS e Javascript. Além disso, tenho fluência em inglês técnico e estou sempre em busca de oportunidades para expandir meu conhecimento.
 
-        @keyframes matrix {
-            0% {
-                transform: translateY(0);
-            }
-            100% {
-                transform: translateY(-100%);
-            }
-        }
-    </style>
+## O Que Estou Fazendo
 
-    <div class="matrix-text">
-        <!-- Coloque seu texto ou código Matrix aqui -->
-        <pre>
-            <!-- Exemplo de código Matrix -->
-            <code>
-                echo "Hello, World!";
-            </code>
-        </pre>
-    </div>
+- 👨‍🎓 Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvendo habilidades em programação e tecnologia.
+- 🌐 Buscando oportunidades de aprendizado e projetos desafiadores.
+
+## Vamos Conectar!
+
+Estou animado para continuar aprendendo e crescendo na área de TI e contribuir para projetos desafiadores. Vamos conectar e explorar oportunidades juntos!
+
+## Contato
+
+Você pode me encontrar nas seguintes redes sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/geraldo-antonio/)
+- [GitHub](https://github.com/Geraldo-Antonio)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Geraldo-Antonio&show_icons=true&theme=dark)
