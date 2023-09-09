@@ -1,5 +1,41 @@
-<div>
-<a href="https://github.com/Geraldo-Antonio">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo-Antonio&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Geraldo-Antonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: black;
+            color: green;
+            font-family: monospace;
+            font-size: 1.5rem;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+
+        .matrix-text {
+            animation: matrix 5s linear infinite;
+        }
+
+        @keyframes matrix {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="matrix-text">
+        <!-- Coloque seu texto ou código Matrix aqui -->
+        <pre>
+            <!-- Exemplo de código Matrix -->
+            <code>
+                echo "Hello, World!";
+            </code>
+        </pre>
+    </div>
+</body>
+</html>
