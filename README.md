@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -26,8 +25,7 @@
             }
         }
     </style>
-</head>
-<body>
+
     <div class="matrix-text">
         <!-- Coloque seu texto ou código Matrix aqui -->
         <pre>
@@ -37,5 +35,3 @@
             </code>
         </pre>
     </div>
-</body>
-</html>
